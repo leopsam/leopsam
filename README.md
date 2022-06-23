@@ -1,7 +1,8 @@
 ### Oi, eu sou o Leonardo Sampaio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
 
-Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da Driven e Alura, afim de promover mais <br/>
-os meus conhecimentos para enfim, engreçar em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. <br/>
+Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da <br/>
+Driven e Alura, afim de promover mais os meus conhecimentos para enfim, engreçar <br/>
+em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. <br/>
 Apaixonado por resolver problemas usando programação. <br/>
 
 #### Hobbies: 
