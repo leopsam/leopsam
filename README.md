@@ -1,8 +1,9 @@
 ### Oi, eu sou o Leonardo Sampaio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
+<img align="right" alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
-Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da <br/>
-Driven e Alura, afim de promover mais os meus conhecimentos para enfim, engreçar <br/>
-em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. <br/>
+Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da 
+Driven e Alura, afim de promover mais os meus conhecimentos para enfim, engreçar 
+em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. 
 Apaixonado por resolver problemas usando programação. <br/>
 
 #### Hobbies: 
@@ -15,8 +16,9 @@ Apaixonado por resolver problemas usando programação. <br/>
     <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+  <br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopsam&layout=compact&langs_count=7&theme=github_dark"/>
 
 ## 
 
- <a href="https://www.linkedin.com/in/leonardo-pereira-sampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://alvo.chat/1Jq" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ ![Snake animation](https://github.com/leopsam/leopsam/blob/output/github-contribution-grid-snake.svg)
