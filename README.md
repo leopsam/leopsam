@@ -4,7 +4,7 @@
 Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da 
 Driven e Alura, afim de promover mais os meus conhecimentos para enfim, engreçar 
 em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. 
-Apaixonado por resolver problemas usando programação. <br/>
+Gosto de resolver problemas usando programação. <br/>
 
 #### Hobbies: 
 🎮 Jogos <br/>
