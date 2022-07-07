@@ -18,7 +18,3 @@ Gosto de resolver problemas usando programação. <br/>
   </div>
   <br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopsam&layout=compact&langs_count=7&theme=github_dark"/>
-
-## 
-
- ![Snake animation](https://github.com/leopsam/leopsam/blob/output/github-contribution-grid-snake.svg)
