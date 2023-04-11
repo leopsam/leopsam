@@ -1,5 +1,5 @@
 ### Oi, eu sou o Leonardo Sampaio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
-<img align="right" alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+<img align="left" alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
 Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da 
 Driven e Alura, afim de promover mais os meus conhecimentos para enfim, engreçar 
