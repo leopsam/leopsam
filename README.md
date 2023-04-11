@@ -1,11 +1,8 @@
 ###  Olá, me chamo Leonardo Sampaio 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
 
 Bem vindo ao meu perfil GitHub sou Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da Driven e Alura, afim de promover mais os meus conhecimentos para enfim, engreçar em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. Gosto de resolver problemas usando programação. 
-
-<img alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-<br/>
   
-# 💻 Tech Stack:
+## 💻 Ferramentas e Tecnologias:
 
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
 
@@ -59,3 +56,6 @@ Bem vindo ao meu perfil GitHub sou Pós-Graduado em Segurança da Informação e
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
+
+<img alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+<br/>
