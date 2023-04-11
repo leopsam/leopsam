@@ -51,7 +51,5 @@ Bem vindo ao meu perfil GitHub sou Pós-Graduado em Segurança da Informação e
 
 <!--<img align="center" alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">-->
 
----
---
 -
 ![Snake animation](https://github.com/leopsam/leopsam/blob/output/github-contribution-grid-snake.svg)
