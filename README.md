@@ -24,15 +24,8 @@ Bem vindo ao meu perfil GitHub sou Pós-Graduado em Segurança da Informação e
   <br>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Status:
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopsam&layout=compact&langs_count=7&theme=github_dark"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=codethi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
-
-<img alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+<img align="center" alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 <br/>
