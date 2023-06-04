@@ -1,4 +1,6 @@
-##  Olá, me chamo Leonardo Sampaio 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
+#  Olá, me chamo Leonardo Sampaio 👋 
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
+##  Desenvolvedor Full Stack
 
 Bem vindo ao meu perfil GitHub sou Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da Driven e Alura, afim de promover mais os meus conhecimentos para enfim, engreçar em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. Gosto de resolver problemas usando programação. 
   
