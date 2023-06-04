@@ -2,10 +2,15 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 - 🔭 Atualmente, estou trabalhando no [A Festas Ornamentações](https://github.com/AFestas)
+
 - 🌱 Atualmente estou aprendendo **Redis** e **Docker** 
-- 💬 Pergunte-me sobre **React e JavaScript**
+
+- 💬 Pergunte-me sobre **React** e **JavaScript**
+
 - 📫 Como chegar até mim **leonardo.lps@outlook.com.br**
-- ⚡ Fun fact **Adoro jogar video games**
+
+- ⚡ Curiosidade **Adoro jogar video games e tenho dois gatos :cat: e dois cachorros :dog:**
+
   
 ## 💻 Ferramentas e Tecnologias:
 
@@ -50,11 +55,15 @@
 //![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 //![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
 -->
+
+
 ## ✨&nbsp; Sobre mim
 
 Bem vindo ao meu perfil GitHub sou Desenvolvedor Full Stack, Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da Driven e Alura, 
 afim de promover mais os meus conhecimentos para enfim, engreçar em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. Gosto de resolver 
 problemas usando programação. 
+
+
 
 ## 📊 GitHub Status:
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopsam&layout=compact&langs_count=7&theme=github_dark"/>
