@@ -10,7 +10,9 @@
   
 ## Ferramentas e Tecnologias:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![CSS3](https://img.shields.io/badge/css3-F7DF1E?style=for-the-badge=css3&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
@@ -51,15 +53,6 @@
 //![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 //![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
 -->
-
-
-## &nbsp; Sobre mim
-
-Bem vindo ao meu perfil GitHub sou Desenvolvedor Full Stack, Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da Driven e Alura, 
-afim de promover mais os meus conhecimentos para enfim, engreçar em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. Gosto de resolver 
-problemas usando programação. 
-
-
 
 ## 📊 GitHub Status:
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopsam&layout=compact&langs_count=7&theme=github_dark"/>
