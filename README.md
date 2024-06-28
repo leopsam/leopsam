@@ -1,18 +1,14 @@
 <h2 align="center">Olá, eu sou Leonardo Sampaio 👋 </h2>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-- 🔭 Atualmente, estou trabalhando no [A Festas Ornamentações](https://github.com/AFestas)
+-  Atualmente, estou trabalhando no [A Festas Ornamentações](https://github.com/AFestas)
 
-- 🌱 Atualmente estou aprendendo **Redis** e **Docker** 
+-  Como chegar até mim **leonardo.lps@outlook.com.br**
 
-- 💬 Pergunte-me sobre **React** e **JavaScript**
-
-- 📫 Como chegar até mim **leonardo.lps@outlook.com.br**
-
-- ⚡ Curiosidade **Adoro jogar video games e tenho dois gatos :cat: e dois cachorros :dog:**
+-  Curiosidade **Adoro jogar video games e tenho dois gatos :cat: e dois cachorros :dog:**
 
   
-## 💻 Ferramentas e Tecnologias:
+## Ferramentas e Tecnologias:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -57,7 +53,7 @@
 -->
 
 
-## ✨&nbsp; Sobre mim
+## &nbsp; Sobre mim
 
 Bem vindo ao meu perfil GitHub sou Desenvolvedor Full Stack, Pós-Graduado em Segurança da Informação e atualmente, me dedico nos cursos da Driven e Alura, 
 afim de promover mais os meus conhecimentos para enfim, engreçar em uma carreira merecida e sólida. Programar, sempre foi e será o meu foco. Gosto de resolver 
