@@ -5,7 +5,7 @@
 
 -  Como chegar até mim **leonardo.lps@outlook.com.br**
 
--  Curiosidade **Adoro jogar video games e tenho dois gatos :cat: e dois cachorros :dog:**
+-  Curiosidade **Adoro jogar video games e tenho um gatos e um cachorros**
 
   
 ## Ferramentas e Tecnologias:
@@ -64,7 +64,3 @@ problemas usando programação.
 ## 📊 GitHub Status:
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopsam&layout=compact&langs_count=7&theme=github_dark"/>
 
-<!--<img align="center" alt="leo-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">-->
-
----
-![Snake animation](https://github.com/leopsam/leopsam/blob/output/github-contribution-grid-snake.svg)
